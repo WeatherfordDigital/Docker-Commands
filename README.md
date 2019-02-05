@@ -1,6 +1,6 @@
 # Docker-Commands
 
-# Starts all stopped containers in the work directory
+## Starts all stopped containers in the work directory
 docker-compose start
 # Stops all currently running containers in the work directory
 docker-compose stop
